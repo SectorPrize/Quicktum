@@ -1,0 +1,9 @@
+.container {
+  display: grid;
+  place-items: center;
+  transform: translateY(25vh);
+}
+
+.hide {
+  visibility: hidden;
+}
